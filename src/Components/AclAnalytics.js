@@ -6,7 +6,7 @@ import product3 from "../Icons/product-3.png";
 function AclAnalytics() {
   return (
     <>
-      {/* Desktop view */}
+      {/* Desktop view  */}
       <div
         style={{ backgroundImage: `url(${rectangle})` }}
         className="bg-repeat-round bg-cover mt-[30px] xl:block 2xl:block lg:hidden sm:hidden md:hidden"
